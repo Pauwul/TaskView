@@ -105,9 +105,10 @@ body {
 }
 
 .task h3 {
-  display: flex;
   align-items: center;
+  display: flex;
   justify-content: space-between;
+  color: steelblue
 }
 
 .add-form {
